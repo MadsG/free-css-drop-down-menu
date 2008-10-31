@@ -1,0 +1,9 @@
+h2. Features
+
+* Modular, with themes. Not only HTML is separated from CSS, but even CSS definitions are categorized into structural and thematic types. Thus creating a new drop-down means creating only a new theme since structure is permanent. What is more, creating a new theme is easy with available templates and takes 10-15 mins.
+* Easily deployable. The code and files are well organized. Available channels to hook up to your CMS or other tools as well as existing websites in XHTML format.
+* Easily transformable. Can be transformed by changing class name only. Available transformations: horizontal, vertical left-to-right, vertical right-to-left, horizontal linear, horizontal upwards.
+* Cross browser. Configurations available for Windows Internet Explorer 5 or later, Mozilla Firefox 1.5 or later, Opera 7 or later, Apple Safari 2 or later.
+* JavaScript only for IE. Minimal JavaScript code only for IE 6 or earlier. Can be used with popular JavaScript libraries Jquery or Scriptaculous. Everything else is pure CSS.
+* Super Fast. Having the above mentioned features it is not affected by any disturbances whatsoever.
+* Continuous development. The project is constantly revised and improved.
